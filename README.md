@@ -1,2 +1,4 @@
 # larissao
-conhece a piada do poei? pố, nem eu : ) 
+conhece a piada do ponei? po nem eu : ) 
+estudo de pensamento computacional
+:o
